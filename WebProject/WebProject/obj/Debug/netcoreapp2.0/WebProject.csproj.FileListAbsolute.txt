@@ -1,0 +1,11 @@
+C:\Source\SourceMapProblem\WebProject\WebProject\bin\Debug\netcoreapp2.0\WebProject.deps.json
+C:\Source\SourceMapProblem\WebProject\WebProject\bin\Debug\netcoreapp2.0\WebProject.runtimeconfig.json
+C:\Source\SourceMapProblem\WebProject\WebProject\bin\Debug\netcoreapp2.0\WebProject.runtimeconfig.dev.json
+C:\Source\SourceMapProblem\WebProject\WebProject\bin\Debug\netcoreapp2.0\WebProject.dll
+C:\Source\SourceMapProblem\WebProject\WebProject\bin\Debug\netcoreapp2.0\WebProject.pdb
+C:\Source\SourceMapProblem\WebProject\WebProject\obj\Debug\netcoreapp2.0\WebProject.csprojResolveAssemblyReference.cache
+C:\Source\SourceMapProblem\WebProject\WebProject\obj\Debug\netcoreapp2.0\WebProject.csproj.CoreCompileInputs.cache
+C:\Source\SourceMapProblem\WebProject\WebProject\obj\Debug\netcoreapp2.0\WebProject.AssemblyInfoInputs.cache
+C:\Source\SourceMapProblem\WebProject\WebProject\obj\Debug\netcoreapp2.0\WebProject.AssemblyInfo.cs
+C:\Source\SourceMapProblem\WebProject\WebProject\obj\Debug\netcoreapp2.0\WebProject.dll
+C:\Source\SourceMapProblem\WebProject\WebProject\obj\Debug\netcoreapp2.0\WebProject.pdb

@@ -1,0 +1,3 @@
+C:\Source\SourceMapProblem\library\obj\Debug\library.njsprojResolveAssemblyReference.cache
+C:\Source\SourceMapProblem\library\obj\Debug\library.njsproj.CoreCompileInputs.cache
+C:\Source\SourceMapProblem\library\bin\Microsoft.NodejsTools.WebRole.dll

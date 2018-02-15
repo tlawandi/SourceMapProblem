@@ -1,0 +1,11 @@
+C:\Source\SourceMapProblem\AureliaApp\obj\Debug\netcoreapp2.0\AureliaApp.csprojResolveAssemblyReference.cache
+C:\Source\SourceMapProblem\AureliaApp\bin\Debug\netcoreapp2.0\AureliaApp.deps.json
+C:\Source\SourceMapProblem\AureliaApp\bin\Debug\netcoreapp2.0\AureliaApp.runtimeconfig.json
+C:\Source\SourceMapProblem\AureliaApp\bin\Debug\netcoreapp2.0\AureliaApp.runtimeconfig.dev.json
+C:\Source\SourceMapProblem\AureliaApp\bin\Debug\netcoreapp2.0\AureliaApp.dll
+C:\Source\SourceMapProblem\AureliaApp\bin\Debug\netcoreapp2.0\AureliaApp.pdb
+C:\Source\SourceMapProblem\AureliaApp\obj\Debug\netcoreapp2.0\AureliaApp.csproj.CoreCompileInputs.cache
+C:\Source\SourceMapProblem\AureliaApp\obj\Debug\netcoreapp2.0\AureliaApp.AssemblyInfoInputs.cache
+C:\Source\SourceMapProblem\AureliaApp\obj\Debug\netcoreapp2.0\AureliaApp.AssemblyInfo.cs
+C:\Source\SourceMapProblem\AureliaApp\obj\Debug\netcoreapp2.0\AureliaApp.dll
+C:\Source\SourceMapProblem\AureliaApp\obj\Debug\netcoreapp2.0\AureliaApp.pdb
